@@ -1,1 +1,2 @@
 # conquistas
+# rápido no gatilho 
